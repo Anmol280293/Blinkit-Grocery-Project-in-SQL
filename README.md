@@ -142,10 +142,10 @@ Ultimately, this leads to **better decision-making and increased profitability**
 
 ##  Business Impact
 
-✅ Improved inventory planning
-✅ Better outlet performance strategy
-✅ Enhanced customer satisfaction insights
-✅ Data-driven decision-making
+ Improved inventory planning
+ Better outlet performance strategy
+ Enhanced customer satisfaction insights
+ Data-driven decision-making
 
 ---
 
