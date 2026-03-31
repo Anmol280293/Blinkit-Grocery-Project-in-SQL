@@ -1,5 +1,3 @@
-# Blinkit-Grocery-Project-in-SQL
-
 ---
 
 # Blinkit Sales & Customer Insights Analysis
