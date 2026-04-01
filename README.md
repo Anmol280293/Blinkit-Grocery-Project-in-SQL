@@ -1,7 +1,7 @@
 
 # Blinkit Sales & Customer Insights Analysis
 
->  Transforming raw grocery data into actionable business insights using **SQL + Power BI**
+>  Transforming raw grocery data into actionable business insights using **SQL**
 
 ---
 
@@ -33,7 +33,6 @@ However, key questions remained unanswered:
 
 ##  Project Goal
 
-To build an **interactive Power BI dashboard** that:
 
 * Tracks key KPIs
 * Identifies high-performing products & outlets
@@ -129,14 +128,6 @@ These insights can help Blinkit:
 * Focus on high-performing outlet formats
 
 Ultimately, this leads to **better decision-making and increased profitability**.”
-
----
-
-##  Tools & Technologies
-
-* **SQL** → Data extraction & transformation
-* **Power BI** → Dashboard & visualization
-* **Excel** → Data cleaning & preprocessing
 
 ---
 
